@@ -1,0 +1,102 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3 {
+    margin: 0;
+    font-size: 29px;
+}
+
+h4 {
+    margin: 0;
+    font-size: 13px;
+}
+
+h5 {
+    margin-left: 60px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 13px;
+}
+
+h6 {
+    margin: 0;
+    font-size: 22px;
+}
+
+h7 {
+    margin-top: 60px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 13px;
+}
+
+
+.vazio {
+    border: 0px solid rgb(255, 255, 255);
+    background-color: white;
+}
+
+.aero {
+    background-color: #8fdede;
+    border: 3px solid rgb (56, 56, 56);
+}
+
+.vermelho {
+    background-color: #fc0202;
+    border: 3px solid rgb (56, 56, 56);
+}
+
+.laranja {
+    background-color: #fc6e02;
+    border: 3px solid rgb (56, 56, 56);
+}
+
+.verde {
+    background-color: hsl(121, 87%, 72%);
+    border: 3px solid rgb (56, 56, 56);
+}
+
+.poa {
+    background-color: hsl(83, 96%, 30%);
+    border: 3px solid rgb (56, 56, 56);
+}
+
+.aqua {
+    background-color: hsl(152, 96%, 30%);
+    border: 3px solid rgb (56, 56, 56);
+}
+
+.azul {
+    background-color: hsl(189, 89%, 49%);
+    border: 3px solid rgb (56, 56, 56);
+}
+
+.ciano {
+    background-color: hsl(224, 89%, 49%);
+    border: 3px solid rgb (56, 56, 56);
+}
+
+.rosa {
+    background-color: hsl(286, 89%, 49%);
+    border: 3px solid rgb (56, 56, 56);
+}
+
+.amarelo {
+    background-color: #f4e409;
+    border: 3px solid rgb (56, 56, 56);
+}
+
+.roxo {
+    background-color: #6309f5;
+    border: 3px solid rgb (56, 56, 56);
+}
+
+
