@@ -37,3 +37,48 @@ CSS3 — Estilização e categorização dos elementos
 VS Code — IDE de desenvolvimento
 
 Git — Controle de versão
+
+
+------
+
+
+## 🧪 Project: Periodic Table in HTML and CSS
+
+This project represents a Periodic Table of Elements, developed with pure HTML and CSS, displayed directly in the browser.
+The goal is to practice the structuring of complex tables and improve the mastery of styling with CSS, applying concepts such as colors, borders and element alignment.
+
+🧩 **Project Description**
+
+The application displays the complete periodic table, with each chemical element positioned in its respective cell.
+Each cell contains information such as:
+
+Atomic number
+
+Chemical symbol
+
+Element name
+
+The elements are classified by colors according to their chemical groups (metals, nonmetals, noble gases, among others), making the visualization intuitive and organized.
+
+🎯 **Learning Objectives** 
+
+Practice semantic structuring in HTML
+
+Work with tables and customized cells
+
+Apply CSS classes for styling and categorization of the elements
+
+Understand the use of spacing and border properties
+
+Explore visual design without using JavaScript
+
+🛠️ **Technologies Used** 
+
+HTML5 — Table Structure
+
+CSS3 — Styling and categorization of the elements
+
+VS Code — Development IDE
+
+Git — Version control
+
